@@ -57,7 +57,7 @@ li{
 #main{
   float: left;
   width: var(--main-width);
-  padding: 0.18in 0.18in 0 0.18in;
+  padding: 0.10in 0.18in 0 0.18in;
   font-size: 10pt;
 }
 
@@ -81,7 +81,7 @@ li{
 #title{
   position: relative;
   left: 0.55in;
-  margin-bottom: 0.15in;
+  margin-bottom: 0.1in;
   line-height: 1.2;
 }
 
