@@ -120,7 +120,7 @@ li{
   /* XXX: 0.5px for aligning fx printing */
   left: calc((var(--date-block-width) + var(--decorator-horizontal-margin)));
   font-weight: 400;
-  font-size: 13pt;
+  font-size: 16pt;
   color: #555;
 }
 
@@ -257,7 +257,7 @@ li{
 }
 
 .details h3{
-  font-size: 11pt;
+  font-size: 14pt;
 }
 
 .main-block:not(.concise) .details div{
